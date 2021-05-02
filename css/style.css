@@ -90,10 +90,10 @@ body{
 
 .login:hover,.register:hover{
     font-weight: 600;
-    transition: all 0.1s ease-in;
-    -webkit-transition: all 0.1s ease-in;
-    -moz-transition: all 0.1s ease-in;
-    -o-transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
 }
 .login,.register a{
     color: #777777;
@@ -285,10 +285,10 @@ body{
 
 .slider-remote-top-list:hover{
     background-color: #57C5A0;
-    transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
 }
 
 .slider-remote-top-list:first-child{
@@ -317,10 +317,10 @@ body{
 
 .slider-remote-bottom-list:hover{
     color: #b6b6b6;
-    transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
 }
     
 
@@ -399,19 +399,19 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 0.1s ease-in;
-    -webkit-transition: all 0.1s ease-in;
-    -moz-transition: all 0.1s ease-in;
-    -o-transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
 
 }
 
 .content-one-detail-area:hover {
     font-size: 25px;
-    transition: all 0.1s ease-in;
-    -webkit-transition: all 0.1s ease-in;
-    -moz-transition: all 0.1s ease-in;
-    -o-transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
 }
 
 
@@ -451,10 +451,10 @@ body{
 .content-header-show:hover{
     background: #BCB4A7;
     color: #fff;
-    transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
 }
 
 .product-wrapper{
@@ -532,7 +532,7 @@ body{
 
 .product-wrapper:hover .product-hover{
     display: block;
-    transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
@@ -541,7 +541,7 @@ body{
 
 .product-wrapper:hover .product-image{
     transform: scaleX(-1);
-    transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in-out;
     -webkit-transition: all 0.1s ease-out;
     -moz-transition: all 0.1s ease-out;
     -o-transition: all 0.1s ease-out;
